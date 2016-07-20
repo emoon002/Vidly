@@ -385,6 +385,7 @@
     <Content Include="Vidly.edmx.diagram">
       <DependentUpon>Vidly.edmx</DependentUpon>
     </Content>
+    <Content Include="Views\Customers\New.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
